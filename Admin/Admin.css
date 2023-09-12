@@ -1,0 +1,48 @@
+.Nombre{
+    background-color: black;
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    background-color: blue;
+    display: flex;
+}
+.navegador{
+    background-color: whitesmoke;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px 40px;  
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: solid;
+    position: relative;
+}
+.buscar{
+    margin-left: 85%;
+    position:sticky;
+    padding: 12px;
+
+}
+div .botonbuscar{
+    text-align: center;
+    left: 95% ;
+    border: 5px solid brown;
+}
+h2{
+    text-transform: uppercase;
+}
+section{
+    border: 5px double blue;
+    margin: 100px 25%;
+    text-align: center;
+    display: flex;
+}
+.seccionadmin{
+    color: black;
+    background-color: turquoise;
+    width: 300px;
+    font-style: italic;
+}
+
